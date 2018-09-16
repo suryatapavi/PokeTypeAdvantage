@@ -1,0 +1,5 @@
+Requirements: Environment to run python code. 
+Library dependencies: sys, requests, pandas, re
+Invocation Examples: 
+python comparePokemons.py -name butterfree metapod
+python comparePokemons.py -id 1 12
